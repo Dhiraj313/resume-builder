@@ -1,0 +1,53 @@
+{
+  "personal_info": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+91 9876543210",
+    "address": "123, Main Street, City, Country"
+  },
+  "summary": "Experienced software developer with expertise in Python and web development.",
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "school": "XYZ University",
+      "year": "2020"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Software Engineer",
+      "company": "Tech Solutions",
+      "location": "City, Country",
+      "start_date": "2020",
+      "end_date": "2023",
+      "responsibilities": [
+        "Developed web applications using Python and Django",
+        "Collaborated with cross-functional teams"
+      ]
+    }
+  ],
+  "skills": ["Python", "Django", "JavaScript", "HTML/CSS"],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "Personal website to showcase projects",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "http://example.com"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer",
+      "issuer": "Amazon",
+      "date": "2022"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "hobbies": ["Reading", "Traveling"]
+}
