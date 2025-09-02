@@ -19,3 +19,5 @@ Install dependencies:
 
 ```bash
 pip install fpdf2
+
+<img width="1223" height="779" alt="Screenshot 2025-09-02 032954" src="https://github.com/user-attachments/assets/40fef369-1c4e-47dc-851c-8b5ac4c9a972" />
