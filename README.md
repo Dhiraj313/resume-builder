@@ -11,12 +11,7 @@ A Python project to generate professional resumes in **PDF** and **HTML** format
 - 🎨 Clean, professional formatting with headings and sections  
 
 **⚙️ Requirements**
-
 - 🐍 Python 3.10+  
 - 📦 [fpdf2](https://pypi.org/project/fpdf2/) for PDF generation  
 
-Install dependencies:
-
-```bash
-pip install fpdf2
 <img width="1223" height="779" alt="Screenshot 2025-09-02 032954" src="https://github.com/user-attachments/assets/e16db3fc-1c21-4341-a780-1aa6f680a34d" />
